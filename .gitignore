@@ -4,3 +4,5 @@ logs/
 **/.DS_Store
 venv/
 .user.yml
+jaffle_shop.session.sql
+Pip*
